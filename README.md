@@ -1,2 +1,2 @@
 # deft
-Defend this
+Defend this, a real-time security incident monitoring program
